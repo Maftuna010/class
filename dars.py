@@ -7,7 +7,7 @@ class Davlatlar:
    self.maydoni = 1000000
  def get_nomi(self):
     return f"{self.nomi.title()} davlati"
-v
+
 def get_poytaxti(self):
     return f"{self.nomi.title()}ning poytaxti {self.poytaxti.title()} shahridir."
 def get_aholisi(self):
